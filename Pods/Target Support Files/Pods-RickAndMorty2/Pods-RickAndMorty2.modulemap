@@ -1,0 +1,6 @@
+framework module Pods_RickAndMorty2 {
+  umbrella header "Pods-RickAndMorty2-umbrella.h"
+
+  export *
+  module * { export * }
+}
