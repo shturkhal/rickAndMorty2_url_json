@@ -71,8 +71,9 @@ class ViewController: UIViewController {
     
     }
     
-   
+  //MARK: Actions
     @IBAction func myAction(_ sender: Any) {
+       // push function
         downloadChar()
         
     }
